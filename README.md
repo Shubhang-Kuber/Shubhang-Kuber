@@ -10,28 +10,39 @@
 
 ---
 
-## 💻 Technical Expertise
-
-### Programming Languages  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-
-### Web Development  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-### Tools & Others  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-
----
-
 ## 📫 Contact Me
 
 - LinkedIn: [linkedin.com/in/shubhang-kuber-4b357a32a](https://www.linkedin.com/in/shubhang-kuber-4b357a32a/)  
 - Email: [kuber.shubhang@gmail.com](mailto:kuber.shubhang@gmail.com)  
+
+---
+
+## 💻 Technical Expertise
+
+### Programming Languages  
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" height="28" />
+</p>
+
+### Web Development  
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="28" />
+</p>
+
+### Tools & Others  
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="28" />
+</p>
 
 ---
 
@@ -63,9 +74,7 @@
 
 <div align="center">
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Kuber_Shubhang&theme=dark&show_icons=true&hide_title=true&count_private=true&include_accepted=true)
-
-![LeetCode Streak](https://leetcode-streak-stats.demolab.com/?user=Kuber_Shubhang&theme=dark&hide_border=true)
+![LeetCode Card](https://leetcard.jacoblin.cool/ShubhangKuber?theme=dark&font=baloo&ext=heatmap)
 
 </div>
-//Update README with portfolio and stats
+//Update README with portfolio Statistics
