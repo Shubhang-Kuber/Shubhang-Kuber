@@ -12,8 +12,14 @@
 
 ## 📫 Contact Me
 
-- LinkedIn: [linkedin.com/in/shubhang-kuber-4b357a32a](https://www.linkedin.com/in/shubhang-kuber-4b357a32a/)  
-- Email: [kuber.shubhang@gmail.com](mailto:kuber.shubhang@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubhang-kuber-4b357a32a/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    🔗 LinkedIn
+  </a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+  <a href="mailto:kuber.shubhang@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    📧 Email
+  </a>
+</p>
 
 ---
 
@@ -21,27 +27,27 @@
 
 ### Programming Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" height="32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" height="32" />
 </p>
 
 ### Web Development  
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="32" />
 </p>
 
 ### Tools & Others  
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" height="32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="32" />
 </p>
 
 ---
@@ -78,3 +84,12 @@
 
 </div>
 
+---
+
+## 📝 Quote
+
+<blockquote align="center" style="font-style: italic; color: #888;">
+"If your actions create a legacy that inspires others to dream more, learn more, do more and become more, then, you are an excellent leader."
+</blockquote>
+
+---
