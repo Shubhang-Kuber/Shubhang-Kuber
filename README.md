@@ -86,6 +86,14 @@
 
 ---
 
+## 👁️ Profile Views
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Shubhang-Kuber.Shubhang-Kuber&left_color=gray&right_color=darkblue&left_text=Profile%20Views" alt="Profile Views" />
+</p>
+
+---
+
 ## 📝 Quote
 
 <blockquote align="center" style="font-style: italic; color: #888;">
