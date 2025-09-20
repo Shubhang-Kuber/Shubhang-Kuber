@@ -66,16 +66,6 @@
 
 ---
 
-## 👀 Profile Visitors  
-
-<p align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/Shubhang-Kuber/count.svg)
-
-</p>
-
----
-
 ## 🏆 GitHub Trophies and Badges  
 
 <div align="center">
