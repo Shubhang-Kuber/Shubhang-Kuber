@@ -48,6 +48,11 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="32" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=white" height="32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" height="32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=flat-square&logo=anaconda&logoColor=white" height="32" />
 </p>
 
 ---
