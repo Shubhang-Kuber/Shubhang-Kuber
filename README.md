@@ -7,7 +7,7 @@
 - Passionate about software & web development, prompt engineering and AI Engineering 🤖💡  
 - Exploring Data Structures and Algorithms (DSA) in Java and C  
 - Love solving problems with code and building impactful projects
-- Curious to explore different different ML ALgorithms  
+- Curious to explore different ML ALgorithms  
 
 ---
 
