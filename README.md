@@ -4,9 +4,10 @@
 
 ## 💫 About Me
 
-- Passionate about software & web development, AI, and prompt engineering 🤖💡  
+- Passionate about software & web development, prompt engineering and AI Engineering 🤖💡  
 - Exploring Data Structures and Algorithms (DSA) in Java and C  
-- Love solving problems with code and building impactful projects  
+- Love solving problems with code and building impactful projects
+- Curious to explore different different ML ALgorithms  
 
 ---
 
