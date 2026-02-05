@@ -27,20 +27,10 @@
 ## 💻 Technical Expertise
 
 ### Programming Languages  
-<p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" height="32" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="32" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" height="32" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" height="32" /> </p>
 
 ### Web Development  
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="32" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="32" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" height="32" /> </p>>
 
 ### Tools & Others  
 <p align="center">
