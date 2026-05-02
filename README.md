@@ -36,9 +36,32 @@
 
 ### Tech Stack  
 <p align="center"> 
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=flat-square&logo=anaconda&logoColor=white" height="32" /> </p> <p align="center"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/matplotlib-%23306998.svg?style=flat-square&logo=python&logoColor=white" height="32" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white" height="32" /> 
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=flat-square&logo=anaconda&logoColor=white" height="32" /> 
 </p>
 
+<p align="center"> 
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/matplotlib-%23306998.svg?style=flat-square&logo=python&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="32" />
+</p>
+
+<p align="center"> 
+<img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" height="32" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white" height="32" /> 
+</p>
 ---
 
 ## 📊 GitHub Stats
