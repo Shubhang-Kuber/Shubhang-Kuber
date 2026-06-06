@@ -1,113 +1,98 @@
-<!-- BACKGROUND LOGO & VISUAL SPLASH -->
+<h1 align="center">Hi 👋, I'm Shubhang Kuber</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=280&section=header&text=Shubhang%20Kuber&fontSize=70&animation=fadeIn&fontAlignY=35&theme=dark" width="100%" />
-</p>
-
-<!-- LIVE TYPING ANIMATION -->
-<p align="center">
-  <a href="https://github.com/Shubhang-Kuber">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9146FF&center=true&vCenter=true&width=500&lines=Software+Developer;AI%2FML+%26+Data+Science+Enthusiast;Full-Stack+Engineer;Hardware+%26+IoT+Explorer" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- PROFILE VISIT COUNTER & BADGES -->
-<p align="center">
-  <img src="https://komarev.com/normal-badge/perseverance?username=Shubhang-Kuber&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Shubhang-Kuber?label=Followers&style=flat-square&color=FF69B4" alt="Followers" />
+  <strong>Software Developer | AI/ML & Data Science Enthusiast</strong>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="35" width="35" /> About Me
+## 💫 About Me
 
-<p align="left">
-  👋 Hello world! I am <strong>Shubhang Kuber</strong>, a dynamic software developer driven by the magic of transforming raw data into intelligent, real-world solutions. 
-</p>
-
-- 🤖 **Deep Focus:** Building deep neural networks, working on data engineering pipelines, and deploying highly optimized Machine Learning models.
-- 💡 **Problem Solving:** Actively cracking algorithmic hurdles and structural logic in **C**, **C++**, and **Java**.
-- 🚀 **Building:** Creating robust, modern full-stack web applications wired with lightning-fast backend microservices.
-- 🛠️ **Hardware Integration:** Bridging the gap between code and physical reality using systems like **Arduino** and IoT devices.
+- 🤖 **Core Focus:** Deeply passionate about Software Development, Artificial Intelligence, and Data Science.
+- 💡 **Problem Solving:** Actively strengthening foundations in Data Structures and Algorithms using Java, C++, and C.
+- 🚀 **Building:** Love engineering data-driven solutions, exploring diverse ML algorithms, and building impactful full-stack applications.
+- 🛠️ **Hardware & IoT:** Experience integrating software with hardware platforms like Arduino.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20with%20Meridians.png" width="35" /> Connect with Me
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubhang-kuber-4b357a32a/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kuber.shubhang@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
   </a>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Technical Universe
+## 💻 Technical Expertise
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
+### 🚀 Programming Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r" height="45" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" height="28" alt="C" />&nbsp;
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="28" alt="C++" />&nbsp;
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" height="28" alt="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" height="28" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" height="28" alt="R" />  
 </p>
-</details>
 
-<details open>
-<summary><b>🧠 Data Science & Machine Learning</b></summary>
-<br/>
+### 🧠 Data Science & Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,scipy" height="45" />
-  <!-- Static badges for libraries missing in skillicons dev with matching styling -->
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="45" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" height="28" alt="Scikit-Learn" />&nbsp;
+  <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" height="28" alt="TensorFlow" />&nbsp;
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" height="28" alt="NumPy" />&nbsp;
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" height="28" alt="Pandas" />&nbsp;
+  <img src="https://img.shields.io/badge/matplotlib-%23306998.svg?style=flat-square&logo=python&logoColor=white" height="28" alt="Matplotlib" />&nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28" alt="Power BI" />
 </p>
-</details>
 
-<details open>
-<summary><b>🌐 Web & Backend Development</b></summary>
-<br/>
+### 🌐 Web & Backend Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,vite,fastapi,flask,mongodb,firebase" height="45" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="28" alt="HTML5" />&nbsp;
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="28" alt="CSS3" />&nbsp;
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" height="28" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" height="28" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" height="28" alt="Vite" />&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white" height="28" alt="FastAPI" />&nbsp;
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white" height="28" alt="Flask" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" height="28" alt="MongoDB" />&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black" height="28" alt="Firebase" />
 </p>
-</details>
 
-<details open>
-<summary><b>🛠️ Platforms & Tools</b></summary>
-<br/>
+### 🛠️ Platforms & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,anaconda,arduino" height="45" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="28" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub" />&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" height="28" alt="Jupyter" />&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=white" height="28" alt="Google Colab" />&nbsp;
+  <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=flat-square&logo=anaconda&logoColor=white" height="28" alt="Anaconda" />&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" height="28" alt="Streamlit" />&nbsp;
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white" height="28" alt="Arduino" />&nbsp;
+  <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white" height="28" alt="LaTeX" />&nbsp;
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" height="28" alt="Canva" />
 </p>
-</details>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" /> GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubhang-Kuber&theme=dracula&no-frame=false&no-bg=false&margin-w=4" width="100%" alt="GitHub Trophies" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> Metrics & Performance Analytics
+## 📊 Performance & Statistics
 
 ### 🐙 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhang-Kuber&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=27&title_color=a9a1e1&icon_color=80ead2" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhang-Kuber&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=27&hide_title=true&custom_title=GitHub%20Statistics" height="160" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhang-Kuber&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=a9a1e1" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhang-Kuber&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhang-Kuber&theme=dracula&hide_border=false&background=0d1117" width="85%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhang-Kuber&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
+</p>
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhang-Kuber&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
 </p>
 
 ### 📈 Coding Metrics (LeetCode)
@@ -117,6 +102,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=100&section=footer" width="100%" />
-</p>
+## 📝 Quote
+
+<blockquote align="center" style="font-style: italic; color: #888; border-left: none;">
+"If your actions create a legacy that inspires others to dream more, learn more, do more and become more, then, you are an excellent leader."
+</blockquote>
